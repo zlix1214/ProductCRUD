@@ -101,7 +101,7 @@ const ProductCard = ({ product }) => {
 					<IconButton
 						icon={<DeleteIcon />}
 						onClick={() => handleDeleteProduct(product._id)}
-						colorScheme='red'
+						colorScheme='gray'
 					/>
 				</HStack>
 			</Box>
