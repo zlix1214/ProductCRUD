@@ -1,3 +1,5 @@
+![project banner](./project-2-1.png)
+
 # MERN Stack Image Management App
 
 這是一個基於 **MERN Stack**（MongoDB、Express、React、Node.js）開發的應用，允許用戶新增、修改、刪除圖片，並能夠保存數據，即使重新整理頁面，圖片資訊仍然存在。
@@ -22,20 +24,20 @@
 - **部署平台**：Render.com
 
 
-### Setup .env file
+### 建立環境變數檔案 .env
 
 ```shell
 MONGO_URI=your_mongo_uri
 PORT=5000
 ```
 
-### Run this app locally
+### 本地運行(自動npm install)
 
 ```shell
 npm run build
 ```
 
-### Start the app
+### 啟動
 
 ```shell
 npm run start
