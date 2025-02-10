@@ -23,10 +23,10 @@
 - **狀態管理**：React Hooks
 - **部署平台**：Render.com
 
-## 學習資源 📖
+## 📖 學習資源
 [MERN Stack Tutorial with Deployment](https://www.youtube.com/watch?v=O3BUHwfHf84&list=PLbwZ-6yH1AZpkZmWhUX5nMb4ttMPxTqh-&index=14)<br>
 
-## 安裝與使用 ⭐
+## ⭐ 安裝與使用
 
 ### 建立環境變數檔案 .env
 
