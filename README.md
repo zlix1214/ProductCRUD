@@ -6,7 +6,7 @@
 
 ## 🌍 部署
 此專案已部署於 Render.com，透過以下連結直接訪問：
-👉 [https://your-app-name.onrender.com](https://your-app-name.onrender.com)
+👉 [Product Store](https://productcrud-3g3z.onrender.com/)
 
 ## ✨ 功能特色
 - 使用 **React** 搭建前端框架，提供良好的用戶體驗。
@@ -23,6 +23,10 @@
 - **狀態管理**：React Hooks
 - **部署平台**：Render.com
 
+## 學習資源 📖
+[MERN Stack Tutorial with Deployment](https://www.youtube.com/watch?v=O3BUHwfHf84&list=PLbwZ-6yH1AZpkZmWhUX5nMb4ttMPxTqh-&index=14)<br>
+
+## 安裝與使用 ⭐
 
 ### 建立環境變數檔案 .env
 
