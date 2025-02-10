@@ -1,6 +1,6 @@
 ![project banner](./project-2-1.png)
 
-# MERN Stack Image Management App
+# MERN Product App
 
 這是一個基於 **MERN Stack**（MongoDB、Express、React、Node.js）開發的應用，允許用戶新增、修改、刪除圖片，並能夠保存數據，即使重新整理頁面，圖片資訊仍然存在。
 
